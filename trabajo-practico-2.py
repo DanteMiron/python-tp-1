@@ -79,10 +79,11 @@
 # 7- Solicitar al usuario el ingreso de una palabra cualquiera, y mostrarle por pantalla
 # cuántas letras tiene la palabra ingresada.
 
-palabra = str(input());
-print(len(palabra));
+# palabra = str(input());
+# print(len(palabra));
 
 
+#-----------------------------------------------------#
 
 # 8- Solicitar al usuario el ingreso de la BASE y la ALTURA de un triángulo, calcular y
 # mostrar el área del triángulo.
@@ -163,6 +164,18 @@ print(len(palabra));
 # print(f"La potencia entre {numero1} y {numero2} es {numero1**numero2}");
 
 #-----------------------------------------------------#
+
+# 13- Realice un programa que solicite al usuario el nombre completo de la persona,
+# el DNI de la persona, la edad de la persona y la altura de la persona. Luego el
+# programa debe mostrar por pantalla dos líneas de texto por separado:
+# a. En una línea imprimir el nombre completo y el DNI, aclarando de que
+# campo se trata cada uno. Por ej.: Nombre Completo: Elena Lobo, DNI:
+# 38041532.
+# b. En la segunda línea se debe imprimir el nombre completo, edad y altura
+# de la persona. Nuevamente debe aclarar el campo de cada uno, para el
+# que lo lea entienda de que se está hablando.
+
+
 
 
 
