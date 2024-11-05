@@ -176,6 +176,19 @@
 # que lo lea entienda de que se está hablando.
 
 
+# 14- Realice un programa que solicite al usuario el ingreso de un nombre completo.
+# Luego lo muestre por pantalla en los siguientes formatos:
+# a. Todas las letras en minúsculas
+# b. Todas las letras en mayúsculas
+# c. Solo la primera letra del nombre en mayúscula
+
+print("Ingrese su nombre completo:")
+nombre = str(input());
+
+print(nombre.upper());
+print(nombre.lower());
+print(nombre.capitalize());
+
 
 
 
